@@ -111,7 +111,7 @@
       margin: 76px 230px 115px 15px;
       &::before {
         content: "";
-        background-image: url("/images/houses.png");
+        background-image: url("./Marketing-in-City/images/houses.png");
         background-size: cover;
         position: absolute;
         width: 240px;
@@ -125,7 +125,7 @@
       position: relative;
       &::before {
         content: "";
-        background-image: url("/images/houses.png");
+        background-image: url("./Marketing-in-City/images/houses.png");
         background-size: cover;
         position: absolute;
         width: 240px;
@@ -140,7 +140,7 @@
       position: relative;
       &::before {
         content: "";
-        background-image: url("/images/houses.png");
+        background-image: url("./Marketing-in-City/images/houses.png");
         background-size: cover;
         position: absolute;
         width: 240px;
@@ -202,7 +202,7 @@
     width: 160px;
     height: 160px;
     padding: 0;
-    background-image: url("../../images/button.png");
+    background-image: url("./Marketing-in-City/images/button.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-color: transparent;
@@ -216,7 +216,7 @@
     }
 
     @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
-      background-image: url("../../images/button@2x.png");
+      background-image: url("./Marketing-in-City/images/button@2x.png");
     }
   }
 }
