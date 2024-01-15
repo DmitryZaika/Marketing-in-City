@@ -16,7 +16,7 @@
   }
 
   &__backdrop {
-    background-image: url('/images/ticket.png');
+    background-image: url("../Marketing-in-City/images/ticket.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
@@ -74,7 +74,7 @@
       margin-left: 20px;
 
       &::before {
-        content: '';
+        content: "";
         position: absolute;
         background-color: var(--color-brand);
         border-radius: 50%;
